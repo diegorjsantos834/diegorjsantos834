@@ -118,17 +118,17 @@ const diego = {
 <table>
 <tr>
 <td align="center">
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com](https://www.linkedin.com/in/diego-rodrigues-324b90390">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
 <td align="center">
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:djordaosantos@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
 <td align="center">
-<a href="https://seuportfolio.com">
+<a href="https://github.com/diegorjsantos834/Portifolio_2025_DS">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 </td>
@@ -141,7 +141,7 @@ const diego = {
 
 <div align="center">
 
-<img src="https://media.tenor.com/2yzvgWyZK7kAAAAj/animation-pixel-art.gif" width="120">
+<img src="https://media.tenor.com/2yzvgWyZK7kAAAAj/animation-pixel-art.gif" width="150">
 
 <br>
 
