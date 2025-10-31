@@ -107,7 +107,9 @@ const diego = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://media.tenor.com/2yzvgWyZK7kAAAAj/animation-pixel-art.gif" width="120">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado%20por%20visitar!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <br>
 
@@ -116,7 +118,5 @@ const diego = {
 ![GitHub stars](https://img.shields.io/github/stars/diegorjsantos834?style=flat-square&color=8b5cf6&labelColor=0d1117)
 
 <br>
-
-<img src="https://media.tenor.com/2yzvgWyZK7kAAAAj/animation-pixel-art.gif" width="100">
 
 </div>
