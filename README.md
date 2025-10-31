@@ -8,7 +8,7 @@
 
 </div>
 
-## 🌌 Sobre Mim
+## 🌌 About me
 
 <img align="right" src="https://upload-os-bbs.hoyolab.com/upload/2022/11/01/33784793/04d2ead9308c75c2eebc73d4006b4320_9126141854227317571.gif" width="300">
 
@@ -28,7 +28,7 @@ const diego = {
 
 <div align="center">
 
-## ⚡ lingaugens & Tecnologias
+## ⚡ Languagens and technologies
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ const diego = {
 
 <div align="center">
 
-## 📊 GitHub Estatística
+## 📊 GitHub Stats
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ const diego = {
 
 <div align="center">
 
-## 🔗 Redes Socias
+## 🔗 My Social Media
 
 <table>
 <tr>
@@ -111,7 +111,7 @@ const diego = {
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado%20por%20visitar!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&textThanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <br>
 
