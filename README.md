@@ -118,7 +118,7 @@ const diego = {
 <table>
 <tr>
 <td align="center">
-<a href="www.linkedin.com/in/diego-rodrigues-324b90390">
+<a href="https://linkedin.com/in/diego-rodrigues-324b90390">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
