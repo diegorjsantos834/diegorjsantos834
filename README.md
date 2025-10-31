@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Gamer+%26+Programador" alt="Typing SVG" />
 
-<img src="https://media.tenor.com/2yzvgWyZK7kAAAAj/animation-pixel-art.gif" width="150">
+<img src="https://github.com/user-attachments/assets/953fead1-96ee-4a62-a490-7bd4794d34a0" width="150">
 
 </div>
 
