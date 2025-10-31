@@ -109,6 +109,8 @@ const diego = {
 
 <img src="https://media.tenor.com/2yzvgWyZK7kAAAAj/animation-pixel-art.gif" width="120">
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado%20por%20visitar!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <br>
