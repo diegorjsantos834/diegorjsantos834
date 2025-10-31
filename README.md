@@ -51,8 +51,6 @@ const diego = {
 </tr>
 </table>
 
-</div>
-
 🛠️ IDEs & Tools
 <table>
 <tr>
@@ -88,6 +86,7 @@ const diego = {
 </td>
 </tr>
 </table>
+</div>
 </div>
 ---
 
