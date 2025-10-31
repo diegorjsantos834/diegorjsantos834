@@ -10,7 +10,7 @@
 
 ## 🌌 Sobre Mim
 
-<img align="right" src="https://upload-os-bbs.hoyolab.com/upload/2022/11/01/33784793/04d2ead9308c75c2eebc73d4006b4320_9126141854227317571.gif" width="280">
+<img align="right" src="https://upload-os-bbs.hoyolab.com/upload/2022/11/01/33784793/04d2ead9308c75c2eebc73d4006b4320_9126141854227317571.gif" width="320">
 
 ```typescript
 const diego = {
