@@ -88,7 +88,6 @@ const diego = {
 </table>
 </div>
 </div>
----
 
 <div align="center">
 
