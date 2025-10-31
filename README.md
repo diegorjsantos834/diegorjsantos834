@@ -17,15 +17,14 @@
 const diego = {
     pronouns: "ele/dele",
     location: "Brasil",
-    interests: ["Jogos", "Programação", "Tecnologia"],
+    interests: ["Jogos", "Programação", "Tecnologia", animes],
     philosophy: "Codando um pouco a cada dia 💡",
-    style: ["Dark", "Elegante", "Minimalista"]
 };
 ```
 
 <div align="center">
 
-### ⚡ Tech Stack
+### ⚡ Linguagens & Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,7 +37,7 @@ const diego = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Estatiticas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegorjsantos834&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 
@@ -52,14 +51,9 @@ const diego = {
 
 <div align="center">
 
-## 🎮 Level Up!
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-### 💻 Atividade de Código
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://media.tenor.com/PO8RHMM6B5kAAAAj/garchomp-pok%C3%A9mon-pok%C3%A9mon.gif)" width="500">
+<img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://upload-os-bbs.hoyolab.com/upload/2022/11/01/33784793/04d2ead9308c75c2eebc73d4006b4320_9126141854227317571.gif)" width="500">
 
 </div>
 
@@ -67,7 +61,7 @@ const diego = {
 
 <div align="center">
 
-## 🔗 Conecte-se Comigo
+## 🔗 Minhas Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
@@ -75,21 +69,6 @@ const diego = {
 
 </div>
 
----
-
-<div align="center">
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegorjsantos834/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegorjsantos834/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diegorjsantos834/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
