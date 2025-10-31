@@ -111,7 +111,7 @@ const diego = {
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&textThanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <br>
 
