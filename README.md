@@ -149,8 +149,6 @@ const diego = {
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diegorjsantos834&color=8b5cf6&style=flat-square&label=Profile+Views)
@@ -158,5 +156,8 @@ const diego = {
 ![GitHub stars](https://img.shields.io/github/stars/diegorjsantos834?style=flat-square&color=8b5cf6&labelColor=0d1117)
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
 
 </div>
