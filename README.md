@@ -4,7 +4,7 @@
 <img width="1457" height="638" alt="Inserir um subtítulo (1)" src="https://github.com/user-attachments/assets/9d4ca9f2-96c5-4b63-a7cb-99f81f023254" />
 
 
-# Diego Rodrigues Jordão dos Santos
+# Olá!, Sou Diego Rodrigues Jordão dos Santos
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Gamer+%26+Programador" alt="Typing SVG" />
 
