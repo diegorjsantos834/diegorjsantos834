@@ -34,63 +34,69 @@ const diego = {
 
 ## ⚡ Languagens and technologies
 
-<table>
+💻 Languages & Development
+<table style="background-color: #1a1b26; border-radius: 10px;">
 <tr>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
 <br>HTML5
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 <br>CSS3
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
 <br>Java
 </td>
 </tr>
 </table>
-
 🛠️ IDEs & Tools
-<table>
+<table style="background-color: #1a1b26; border-radius: 10px;">
 <tr>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 <br>VS Code
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ" />
+<br>IntelliJ
+</td>
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
 <br>Git
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
 <br>GitHub
 </td>
 </tr>
 </table>
-
 🎨 Design & Creative
-<table>
+<table style="background-color: #1a1b26; border-radius: 10px;">
 <tr>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
 <br>Figma
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
 <br>Canva
 </td>
-<td align="center" width="96">
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
+<br>Photoshop
+</td>
+<td align="center" width="96" style="border: 2px solid #8b5cf6; border-radius: 8px; padding: 10px; background: linear-gradient(135deg, #1a1b26 0%, #24283b 100%);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
 <br>Illustrator
 </td>
 </tr>
 </table>
-</div>
 </div>
 
 <div align="center">
